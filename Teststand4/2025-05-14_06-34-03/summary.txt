@@ -1,0 +1,11 @@
+End of file with 24 lines.
+DAQ Lane  Nevt  Date time   Start/ End       dT(min)   Start Inj/Obs     End Inj/Obs             Ninj/    Nobs
+Ch0 RX5      4                 0 /         0    1.0   5960 /       5960    5964 /       5964       4 /       4
+Ch1 RX6      4                 0 /         0    1.0   5960 /       5960    5964 /       5964       4 /       4
+Ch2 RX7      0
+Ch3 TX2      0
+Ch4 RX1      4                 0 /         0    1.0   5961 /       5961    5965 /       5965       4 /       4
+Ch5 RX2      4                 0 /         0    1.0   5960 /       5972    5964 /       5976       4 /       4
+Ch6 RX3      4                 0 /         0    1.0   5960 /       6031    5964 /       6035       4 /       4
+Ch7 RX4      4                 0 /         0    1.0   5960 /       5960    5964 /       5964       4 /       4
+Ch8 TX1      0
